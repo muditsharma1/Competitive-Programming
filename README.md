@@ -1,2 +1,2 @@
 # Competitive-Programming
-Here Are the Different Problems Solved from websites such as CodeForces,HackerRank,HackerEarth,LeetCode.
+Here Are the Different Problems Solved from websites CodeForces,HackerRank,HackerEarth,LeetCode.

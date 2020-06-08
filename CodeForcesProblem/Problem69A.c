@@ -3,7 +3,7 @@ int main()
 {
     int test_case;
     scanf("%d", &test_case);
-    int x, y, z, sum_of_x=0, sum_of_y=0, sum_of_z=0;
+    int x, y, z, sum_of_x = 0, sum_of_y = 0, sum_of_z = 0;
     for (int i = 0; i < test_case; i++)
     {
         scanf("%d %d %d", &x, &y, &z);
